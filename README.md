@@ -35,3 +35,6 @@ Additional files and information will be posted soon.
 [AgileSec Platform](https://www.infosecglobal.com/solutions/agile-crypto/agility-platform)
 
 [AgileSec SDK FIPS Module Certificate #3365](https://csrc.nist.gov/projects/cryptographic-module-validation-program/Certificate/3365) 
+
+[Cryptographic Agility in Practice: Emerging Use-Cases](https://uploads-ssl.webflow.com/5bd73d456f7b3f2db2bbbb95/5c76a740dcc2cc4646a06805_ISG_AgilityUseCases_Whitepaper-FINAL.pdf)
+
